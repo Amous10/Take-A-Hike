@@ -1,4 +1,4 @@
-console.log("this is loaded");
+console.log("keys loaded");
 
 exports.trail = {
   id: process.env.TRAIL_ID
